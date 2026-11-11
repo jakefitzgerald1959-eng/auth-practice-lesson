@@ -1,0 +1,5 @@
+# Local-only config with real secrets
+local/
+
+# Generated artifacts: databases, logs, caches, etc.
+generated/
